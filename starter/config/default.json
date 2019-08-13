@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://ani123:AnaNikolova103@contactkeper-lncri.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://ani123:AnaNikolova103@contactkeper-lncri.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
