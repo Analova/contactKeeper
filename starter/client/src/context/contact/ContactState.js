@@ -21,19 +21,22 @@ const ContactState = props => {
         id: 1,
         name: "Jenifer Lopez",
         email: "jenifer@gmail.com",
-        phone: 111 - 111 - 111
+        phone: "111 - 111 - 111",
+        type: "personal"
       },
       {
         id: 2,
         name: "Ricky Martin",
         email: "ricky@gmail.com",
-        phone: 222 - 222 - 222
+        phone: "222 - 222 - 222",
+        type: "personal"
       },
       {
         id: 3,
         name: "Enricke Iglesias",
         email: "iglesias@gmail.com",
-        phone: 333 - 333 - 333
+        phone: "333 - 333 - 333 ",
+        type: "professional"
       }
     ]
   };
